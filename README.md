@@ -24,4 +24,4 @@ LinkedIn: www.linkedin.com/in/tomlhennessy96
 Portfolio: 
 
 ⚡ Fun Fact
-I thrive on challenges and enjoy travelling learning about new cultures.
+I thrive on challenges and enjoy travelling and learning about new cultures.
