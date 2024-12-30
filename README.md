@@ -1,10 +1,10 @@
 
 Hi there! 👋
-I'm Tom, an aspiring Full Stack Developer passionate about creating efficient, user-friendly web applications and software solutions.
+I'm Tom, a Full Stack Developer passionate about creating efficient, user-friendly web applications and software solutions.
 
 🌱 About Me
 🌍 From the UK, moved to Australia in September 2024.
-💻 Currently learning Full Stack Development:
+💻 Current experience:
 Frontend: HTML, CSS, JavaScript, React.
 Backend: Node.js, Express, MongoDB, SQL.
 Tools: Git, Docker, VS Code, and more.
