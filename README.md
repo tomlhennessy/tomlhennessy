@@ -5,10 +5,10 @@ I'm Tom, a Full Stack Developer passionate about creating efficient, user-friend
 🌱 About Me
 🌍 From the UK, moved to Australia in September 2024.
 💻 Current experience:
-Frontend: React, Next.js, TailwindCSS
-Backend: Node.js, Express.js, Sequelize, RESTful APIs
-Databases: SQL, MySQL, Firebase
-Languages: JavaScript, Python
+Frontend: React, Next.js, TailwindCSS.
+Backend: Node.js, Express.js, Sequelize, RESTful APIs.
+Databases: SQL, MySQL, Firebase.
+Languages: JavaScript, Python.
 
 👀 Interests
 Building scalable web applications.
