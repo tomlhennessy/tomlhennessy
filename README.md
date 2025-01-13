@@ -7,7 +7,7 @@ I'm Tom, a Full Stack Developer passionate about creating efficient, user-friend
 💻 Current experience:
 Frontend: React, Next.js, TailwindCSS.
 Backend: Node.js, Express.js, Sequelize, RESTful APIs.
-Databases: SQL, MySQL, Firebase.
+Databases: SQLite, Firebase.
 Languages: JavaScript, Python.
 
 👀 Interests
@@ -16,7 +16,6 @@ Exploring emerging technologies like AI and blockchain.
 Sharing knowledge and collaborating on open-source projects.
 
 💞️ Looking to Collaborate On
-Web development projects, especially those involving frontend frameworks or RESTful APIs.
 Open-source contributions to gain practical experience and network with the developer community.
 
 📫 How to Reach Me
