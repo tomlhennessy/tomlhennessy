@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Tom Hennessy
 
-**Junior Software Developer | Full-Stack Focus | Based on the Gold Coast, Australia**
+**Software Developer | Full-Stack Focus | Based on the Gold Coast, Australia**
 
 I'm a self-taught developer with a background in digital marketing, now building clean, efficient, and user-focused web applications. I enjoy solving real problems through code and crafting intuitive user experiences that make an impact.
 
