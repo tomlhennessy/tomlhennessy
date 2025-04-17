@@ -1,68 +1,68 @@
 # 👋 Hey, I'm Tom Hennessy
 
-**Software Developer | Full-Stack Focus | Based on the Gold Coast, Australia**
+**Software Developer • Full-Stack Focus • Based on the Gold Coast**
 
-I'm a self-taught developer with a background in digital marketing, now building clean, efficient, and user-focused web applications. I enjoy solving real problems through code and crafting intuitive user experiences that make an impact.
+I’m a self-taught developer who transitioned from digital marketing into software development — now focused on building full-stack apps with a strong emphasis on **clean backend architecture**, **secure authentication**, and **scalable data flows**.
 
-Currently seeking junior software developer roles in Brisbane or remote within Australia.
+Currently open to **junior developer roles in Brisbane** or **remote within Australia** 🇦🇺
 
 ---
 
 ## 🛠 Tech Stack & Tools
 
-**Frontend:**  
-React · Next.js · TailwindCSS · SvelteKit · Qwik · React Native  
+**Frontend**  
+React · Next.js · TailwindCSS · Responsive Design
 
-**Backend & APIs:**  
-Node.js · Express.js · Firebase · .NET · Flask · Django · RESTful APIs  
+**Backend / APIs**  
+C# · ASP.NET Core · Entity Framework · JWT Auth · Node.js · Firebase
 
-**Databases & Cloud:**  
-PostgreSQL · Firebase · SQLite · AWS (Amplify) · Azure  
+**Database & Cloud**  
+Azure (App Service, SQL) · PostgreSQL · Firebase · SQLite
 
-**DevOps & Tools:**  
-Docker · Kubernetes · CI/CD · Git · GitHub Actions  
-
-**Languages:**  
-JavaScript · Python · C#  
+**Dev Tools**  
+Swagger · Git · GitHub Actions · CI/CD · Postman
 
 ---
 
-## 📌 Recent Projects
+## 📌 Featured Projects
 
-### [Expenny – The Subscription Tracker](https://subscription-tracking.netlify.app/)  
-> Real-time subscription manager with Firebase Auth & Firestore, showing monthly costs, categories, and trends.  
-🛠 Next.js, Firebase, TailwindCSS  
-[GitHub Repo](https://github.com/tomlhennessy/expenny)
+### [Expenny (C#/.NET) – Subscription Tracker](https://expenny-fullstack.vercel.app)  
+> Full-stack rebuild of my original Firebase app using ASP.NET Core Web API, JWT auth, and Azure SQL.  
+> Features include analytics dashboard, secure login, and multi-user support.  
+🛠 ASP.NET Core · Azure SQL · EF Core · JWT · Next.js  
+🔗 [GitHub](https://github.com/tomlhennessy/ExpennyFullstack) | [Live API (Swagger)](https://expenny-api-79450e.azurewebsites.net/swagger/index.html)
+
+---
+
+### [Expenny (Firebase) – Original Version](https://subscription-tracking.netlify.app/)  
+> Real-time subscription manager with Firebase Auth & Firestore.  
+> Calculate monthly spend, manage subscriptions, and view billing trends.  
+🛠 Next.js · Firebase · TailwindCSS  
+🔗 [GitHub](https://github.com/tomlhennessy/expenny)
 
 ---
 
 ### [Stickr – E-Commerce Store](https://main.d1cxwz0h5a8ec4.amplifyapp.com/)  
-> Full-featured online store with Stripe checkout, product listings, and persistent cart.  
-🛠 Next.js, Stripe, AWS Amplify  
-[GitHub Repo](https://github.com/tomlhennessy/stickr)
+> A fully functional online store with product listings, shopping cart, and Stripe checkout.  
+🛠 Next.js · Stripe · AWS Amplify  
+🔗 [GitHub](https://github.com/tomlhennessy/stickr)
 
 ---
 
-### [Broodl – Daily Mood Tracker](https://broodl-mood-tracker.netlify.app/)  
-> Mood logging app with calendar trends and personal stats for mental wellness.  
-🛠 Next.js, Firebase, TailwindCSS  
-[GitHub Repo](https://github.com/tomlhennessy/broodl)
+## 💡 A Little About Me
 
----
-
-## 💡 About Me
-
-- 🛬 Moved from the UK to Australia in September 2024  
-- 🔁 Transitioned from digital marketing to software development  
-- 🧠 Passionate about clean code, UX, and continuous learning  
-- 🎯 Currently rebuilding my backend in .NET to strengthen backend & enterprise-ready skills  
-- 💼 Actively seeking junior dev roles in Brisbane or remote across Australia  
+- 🇬🇧→🇦🇺 Moved to Australia in late 2024 (Brisbane/Gold Coast based)
+- 👨‍💻 1.5 years of self-taught development (Boot.dev, full-stack projects)
+- 🔁 Former digital marketer — now building serious software
+- 🎯 Currently focusing on **.NET stack** to align with **Brisbane’s job market**
+- 📚 Interested in clean code, service layers, and developer growth
 
 ---
 
 ## 📫 Let’s Connect
 
 📧 Email: [tomlhennessy@outlook.com](mailto:tomlhennessy@outlook.com)  
-🔗 LinkedIn: [linkedin.com/in/tomlhennessy96](https://www.linkedin.com/in/tomlhennessy96)  
-🌐 Portfolio: [tom-hennessy-web-portfolio.netlify.app](https://tom-hennessy-web-portfolio.netlify.app/)  
-🐙 GitHub: [@tomlhennessy](https://github.com/tomlhennessy)  
+🔗 [LinkedIn](https://www.linkedin.com/in/tomlhennessy96)  
+🌐 [Portfolio](https://tom-hennessy-web-portfolio.netlify.app)  
+🐙 [GitHub](https://github.com/tomlhennessy)
+
