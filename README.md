@@ -1,10 +1,8 @@
 # 👋 Hey, I'm Tom Hennessy
 
-**Software Developer • Full-Stack Focus • Based on the Gold Coast**
+**Software Developer • Based on the Gold Coast**
 
 I’m a self-taught developer who transitioned from digital marketing into software development — now focused on building full-stack apps with a strong emphasis on **clean backend architecture**, **secure authentication**, and **scalable data flows**.
-
-Currently open to **junior developer roles in Brisbane** or **remote within Australia** 🇦🇺
 
 ---
 
@@ -53,8 +51,7 @@ Swagger · Git · GitHub Actions · CI/CD · Postman
 
 - 🇬🇧→🇦🇺 Moved to Australia in late 2024 (Brisbane/Gold Coast based)
 - 👨‍💻 1.5 years of self-taught development (Boot.dev, full-stack projects)
-- 🔁 Former digital marketer — now building serious software
-- 🎯 Currently focusing on **.NET stack** to align with **Brisbane’s job market**
+- 🔁 Former digital marketer
 - 📚 Interested in clean code, service layers, and developer growth
 
 ---
