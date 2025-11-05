@@ -21,14 +21,14 @@ I combine algorithmic thinking with practical systems engineering — designing 
 
 # ⚙️ Tech Stack
 
-- Languages & Core Tools
-Java · Spring Boot · Docker · Bash · Git · GitHub Actions
+### Languages & Core Tools
+- Java · Spring Boot · Docker · Bash · Git · GitHub Actions
 
-- Infrastructure & Observability
-Prometheus · Grafana · Google Cloud Platform · AWS · CI/CD
+### Infrastructure & Observability
+- Prometheus · Grafana · Google Cloud Platform · AWS · CI/CD
 
-- Foundations & Concepts
-System Design · DS&A · API Design · Linux Systems · REST · Testing (JUnit / Mockito)
+### Foundations & Concepts
+- System Design · DS&A · API Design · Linux Systems · REST · Testing (JUnit / Mockito)
 
 ---
 
