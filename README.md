@@ -1,58 +1,52 @@
-# 👋 Hey, I'm Tom Hennessy
+👋 Hey, I'm Tom Hennessy
 
-**Software Developer • Based on the Gold Coast**
+Software Engineer (Java • Systems • Reliability)
+📍 Gold Coast / London
 
-I’m a self-taught developer who transitioned from digital marketing into software development — now focused on building full-stack apps with a strong emphasis on **clean backend architecture**, **secure authentication**, and **scalable data flows**.
+I’m a software engineer focused on backend reliability, clean architecture, and system design.
+Currently completing the Metana Software Engineer Career Accelerator, mentored by a Google engineer, where I’m deepening my Java, data structures & algorithms, and distributed systems fundamentals to prepare for a backend or SRE role.
 
----
-
-## 🛠 Tech Stack & Tools
-
-**Frontend**  
-React · Next.js · TailwindCSS · Responsive Design
-
-**Backend / APIs**  
-C# · ASP.NET Core · Entity Framework · JWT Auth · Node.js · Firebase
-
-**Database & Cloud**  
-Azure (App Service, SQL) · PostgreSQL · Firebase · SQLite
-
-**Dev Tools**  
-Swagger · Git · GitHub Actions · CI/CD · Postman
+I combine algorithmic thinking with practical systems engineering — designing efficient, fault-tolerant, and observable services built for scalability and simplicity.
 
 ---
 
-## 📌 Featured Projects
+# 🧠 Focus Areas
 
-### [Expenny (C#/.NET) – Subscription Tracker](https://expenny-fullstack.vercel.app)  
-> Full-stack rebuild of my original Firebase app using ASP.NET Core Web API, JWT auth, and Azure SQL.  
-> Features include analytics dashboard, secure login, and multi-user support.  
-🛠 ASP.NET Core · Azure SQL · EF Core · JWT · Next.js  
-🔗 [GitHub](https://github.com/tomlhennessy/ExpennyFullstack) | [Live API (Swagger)](https://expenny-api-79450e.azurewebsites.net/swagger/index.html)
-
----
-
-### [Expenny (Firebase) – Original Version](https://subscription-tracking.netlify.app/)  
-> Real-time subscription manager with Firebase Auth & Firestore.  
-> Calculate monthly spend, manage subscriptions, and view billing trends.  
-🛠 Next.js · Firebase · TailwindCSS  
-🔗 [GitHub](https://github.com/tomlhennessy/expenny)
+- Backend engineering in Java (clean, maintainable code)
+- System design and distributed infrastructure fundamentals
+- Reliability engineering — monitoring, alerting, automation
+- Data structures & algorithms — efficiency and trade-off reasoning
 
 ---
 
-### [Stickr – E-Commerce Store](https://main.d1cxwz0h5a8ec4.amplifyapp.com/)  
-> A fully functional online store with product listings, shopping cart, and Stripe checkout.  
-🛠 Next.js · Stripe · AWS Amplify  
-🔗 [GitHub](https://github.com/tomlhennessy/stickr)
+# ⚙️ Tech Stack
+
+- Languages & Core Tools
+Java · Spring Boot · Docker · Bash · Git · GitHub Actions
+
+- Infrastructure & Observability
+Prometheus · Grafana · Google Cloud Platform · AWS · CI/CD
+
+- Foundations & Concepts
+System Design · DS&A · API Design · Linux Systems · REST · Testing (JUnit / Mockito)
 
 ---
 
-## 💡 A Little About Me
+# 📦 Featured Project
+### [Multi-Warehouse Inventory & Delivery Optimization (Java)](https://github.com/tomlhennessy/inventory-project)
 
-- 🇬🇧→🇦🇺 Moved to Australia in late 2024 (Brisbane/Gold Coast based)
-- 👨‍💻 1.5 years of self-taught development (Boot.dev, full-stack projects)
-- 🔁 Former digital marketer
-- 📚 Interested in clean code, service layers, and developer growth
+A DS&A-driven backend simulating real-world inventory and delivery routing.
+Implements expiry-aware inventory management, greedy warehouse selection, and nearest-neighbor routing with time-window validation.
+🛠 Java · HashMap · PriorityQueue · Greedy Algorithm · TSP Heuristic
+
+---
+
+# 💬 About Me
+
+- 🧩 Strengthening core LeetCode and system design skills
+- 👨‍🏫 Mentored by a Google engineer through Metana SECA
+- 🧠 Fascinated by reliability, scalability, and clean software design
+- 📈 Transitioned from digital marketing
 
 ---
 
