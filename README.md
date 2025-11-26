@@ -1,4 +1,4 @@
-👋 Hey, I'm Tom Hennessy
+# 👋 Hey, I'm Tom Hennessy
 
 Software Engineer (Java • Systems • Reliability)
 📍 Gold Coast / London
